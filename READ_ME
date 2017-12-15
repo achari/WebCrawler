@@ -1,0 +1,4 @@
+Sample Request url to get zipped mail archives
+
+ http://localhost:8080/simpleCrawl/download/mailarchive/2017/zip
+
